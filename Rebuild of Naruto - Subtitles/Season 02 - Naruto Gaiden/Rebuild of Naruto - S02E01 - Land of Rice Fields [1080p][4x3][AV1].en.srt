@@ -38,7 +38,7 @@ You guys want some, too?
 
 10
 00:02:25,815 --> 00:02:28,083
-Pop, this is for the tab.
+Mister, this is for the tab.
 
 11
 00:02:28,556 --> 00:02:30,058
@@ -46,7 +46,7 @@ Thanks for your business!
 
 12
 00:02:31,510 --> 00:02:33,530
-Jeez, I'm fine!
+I'm telling you, I'm already fine!
 
 13
 00:02:33,555 --> 00:02:37,810
@@ -751,7 +751,7 @@ I don't really know about it, but...
 
 172
 00:16:21,641 --> 00:16:23,976
-You know… 'Make-Out' this and that...
+You know... 'Make-Out' this and that...
 
 173
 00:16:24,196 --> 00:16:27,491
@@ -839,7 +839,7 @@ Who's there?!
 
 192
 00:18:10,045 --> 00:18:13,883
-Who're you?!
+Who are you?!
 Are you one of Orochimaru's followers?!
 
 193
@@ -1248,7 +1248,7 @@ a lot about it.
 
 286
 00:25:18,537 --> 00:25:19,537
-Wanna come?
+Want to come?
 
 287
 00:25:20,010 --> 00:25:21,010
@@ -1587,7 +1587,7 @@ Why am I the only one who has to leave?!
 
 363
 00:31:20,489 --> 00:31:21,823
-Jeez!
+Seriously, man...!
 
 364
 00:31:22,454 --> 00:31:24,373
@@ -1632,7 +1632,7 @@ A cute girl?
 374
 00:32:33,040 --> 00:32:35,793
 Sakura! This girl!
-Who the heck is this girl?!
+Who the hell is this girl?!
 
 375
 00:32:35,818 --> 00:32:37,904
@@ -2126,7 +2126,7 @@ Man, they're quick to run away!
 
 487
 00:40:35,143 --> 00:40:38,021
-Naruto, why're you spacing out?!
+Naruto, why are you spacing out?!
 
 488
 00:40:39,402 --> 00:40:40,695
@@ -2159,7 +2159,7 @@ Sasame's totally okay.
 
 495
 00:41:00,160 --> 00:41:02,121
-What're you mad about?
+What are you mad about?
 
 496
 00:41:08,345 --> 00:41:09,972
@@ -2210,7 +2210,7 @@ I told you to stop calling me
 
 507
 00:41:42,075 --> 00:41:43,827
-Then you're just a Lewd Sage!
+Then you're just a dirty old sage!
 
 508
 00:41:44,443 --> 00:41:48,262
@@ -2223,7 +2223,7 @@ Both of you stop it! Sasame's scared!
 
 510
 00:41:50,556 --> 00:41:51,829
-Jeez...
+Honestly...
 
 511
 00:41:53,023 --> 00:41:54,427
@@ -3011,7 +3011,7 @@ for restoration...
 
 692
 00:56:21,235 --> 00:56:25,781
-I'll kick Orochimaru's butt,
+I'll kick Orochimaru's ass,
 no matter what!
 
 693
@@ -3448,7 +3448,7 @@ Wait!
 
 791
 01:04:44,196 --> 01:04:45,196
-What the heck?!
+What the hell.!
 
 792
 01:04:46,133 --> 01:04:48,733
@@ -3635,7 +3635,7 @@ I can't get out...
 
 834
 01:07:56,454 --> 01:07:57,580
-What're you doing?!
+What are you doing?!
 
 835
 01:07:57,804 --> 01:08:00,891
@@ -3819,7 +3819,7 @@ My muscles are cramping up!
 
 877
 01:11:26,127 --> 01:11:28,795
-Man! I've gotta do something...
+Man! I've have to do something...
 
 878
 01:11:29,902 --> 01:11:30,602
@@ -4215,7 +4215,7 @@ That's my Ninja Way!
 
 966
 01:19:18,200 --> 01:19:21,606
-I'm not gonna die until
+I'm not going to die until
 I get Sasuke back!
 
 967
@@ -4246,7 +4246,7 @@ I'm over here! Over here!
 
 973
 01:19:48,878 --> 01:19:50,922
-What're you doing? Hey!
+What are you doing? Hey!
 
 974
 01:20:03,441 --> 01:20:05,402
@@ -4254,7 +4254,7 @@ So you've used up all your kunai...
 
 975
 01:20:07,009 --> 01:20:11,638
-I'm gonna... completely blow you away!
+I'm going to... completely blow you away!
 
 976
 01:20:28,416 --> 01:20:30,205
@@ -4304,7 +4304,7 @@ Tell us the truth right now!
 
 987
 01:21:37,851 --> 01:21:41,729
-Wh-What the heck?
+Wh-What the hell.
 My body won't move...
 
 988
@@ -4432,8 +4432,8 @@ my body to Lord Orochimaru...
 
 1015
 01:24:09,919 --> 01:24:12,589
-Wh-What the heck are
-you gonna do?!
+Wh-What the hell are
+you going to do?!
 
 1016
 01:24:14,799 --> 01:24:17,093
@@ -4476,7 +4476,7 @@ Naruto will die too.
 
 1025
 01:24:52,297 --> 01:24:53,099
-What I'm gonna cut...
+What I'm going to cut...
 
 1026
 01:24:54,104 --> 01:24:54,908
@@ -4667,16 +4667,16 @@ Th-The frog spoke...!
 
 1069
 01:29:11,509 --> 01:29:13,389
-Well, come to think of it,
+Now that I think about it...
 
 1070
 01:29:13,414 --> 01:29:16,807
-there's no way you could open the lid
-of the trap by pushing on it.
+there's no way you could open
+a trap by pushing on it.
 
 1071
 01:29:17,353 --> 01:29:18,017
-Geez!
+Really...
 
 1072
 01:29:19,662 --> 01:29:21,893
@@ -4704,7 +4704,7 @@ The Fuma?!
 1077
 01:29:35,309 --> 01:29:38,938
 I see...
-So who the heck is this?!
+So who the hell is this?!
 
 1078
 01:29:41,876 --> 01:29:42,398
@@ -4865,7 +4865,7 @@ Arashi...
 
 1115
 01:33:44,869 --> 01:33:47,300
-Wh-What the heck is going on?!
+Wh-What the hell is going on?!
 
 1116
 01:33:51,208 --> 01:33:54,889
@@ -5161,7 +5161,7 @@ Naruto!
 
 1185
 01:39:43,780 --> 01:39:45,396
-What the heck is this?!
+What the hell is this?!
 
 1186
 01:39:46,491 --> 01:39:47,481
@@ -5321,7 +5321,7 @@ Sakura?
 
 1224
 01:42:52,274 --> 01:42:54,819
-You wanna be... the first to die?
+You want to be... the first to die?
 
 1225
 01:42:57,566 --> 01:42:59,207
@@ -5552,7 +5552,7 @@ Arashi...
 
 1278
 01:46:56,971 --> 01:46:59,283
-Arashi... This place is gonna collapse!
+Arashi... This place is going to collapse!
 
 1279
 01:46:59,308 --> 01:47:00,428

@@ -125,7 +125,7 @@ As for me,
 
 31
 00:03:02,932 --> 00:03:05,643
-I wanna do a much cooler mission!
+I want to do a much cooler mission!
 
 32
 00:03:06,025 --> 00:03:07,109
@@ -278,7 +278,7 @@ Hmph!
 65
 00:04:59,424 --> 00:05:01,426
 <i>Man,
-I'm gonna get scolded later...</i>
+I'm going to get scolded later...</i>
 
 66
 00:05:08,433 --> 00:05:09,809
@@ -1070,7 +1070,7 @@ Argh! No! No!
 
 245
 00:16:30,631 --> 00:16:32,883
-I don't wanna die like this, y'know!
+I don't want to die like this, y'know!
 
 246
 00:16:33,092 --> 00:16:34,718
@@ -1460,7 +1460,7 @@ It'll be a Jonin.</i>
 
 333
 00:23:40,416 --> 00:23:43,252
-<i>I'm not gonna let this guy
+<i>I'm not going to let this guy
 get all the action!</i>
 
 334
@@ -3226,7 +3226,7 @@ Zabuza is still alive!
 
 741
 00:55:36,891 --> 00:55:38,768
-What the heck do you mean?!
+What the hell do you mean?!
 
 742
 00:55:38,793 --> 00:55:42,363
@@ -3332,7 +3332,7 @@ I'm going to have you train!
 764
 00:57:03,520 --> 00:57:08,358
 W-Wait a minute! Even with training,
-we're not gonna be that strong!
+we're not going to be that strong!
 
 765
 00:57:08,806 --> 00:57:13,431
@@ -3372,7 +3372,7 @@ It's not interesting at all...
 
 773
 00:57:43,810 --> 00:57:44,962
-Who the heck are you?
+Who the hell are you?
 
 774
 00:57:45,353 --> 00:57:47,855
@@ -4009,7 +4009,7 @@ start throwing a tantrum.</i>
 
 913
 01:07:06,624 --> 01:07:07,208
-Shoot!
+Damn!
 
 914
 01:07:07,440 --> 01:07:11,154
@@ -4351,13 +4351,13 @@ Hey... Naruto!
 
 991
 01:13:16,308 --> 01:13:19,038
-Jeez, what the heck's
+Hey! What the hell is
 wrong with you?!
 
 992
 01:13:19,287 --> 01:13:21,205
-Don't interfere while
-I'm trying to concentrate!
+I'm trying to concentrate,
+so don't get in my way!
 
 993
 01:13:21,992 --> 01:13:24,786
@@ -4644,7 +4644,7 @@ Here, eat!
 
 1057
 01:18:15,982 --> 01:18:18,110
-<i>Is this God? Oh...</i>
+<i>Is this real? Oh...</i>
 
 1058
 01:18:18,684 --> 01:18:20,769

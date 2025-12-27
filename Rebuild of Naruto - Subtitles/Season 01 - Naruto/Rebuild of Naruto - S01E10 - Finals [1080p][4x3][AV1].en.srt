@@ -310,7 +310,7 @@ like you!
 74
 00:07:08,010 --> 00:07:12,851
 Oh, yeah! Be sure to come watch me
-kick Neji's butt!
+kick Neji's ass!
 
 75
 00:07:16,644 --> 00:07:19,730
@@ -1265,7 +1265,8 @@ This is the end.
 
 288
 00:26:05,188 --> 00:26:08,650
-You're within range of my Eight Trigrams.
+You're within range of
+my Eight Trigrams.
 
 289
 00:26:20,368 --> 00:26:21,899
@@ -1273,7 +1274,7 @@ You're within range of my Eight Trigrams.
 
 290
 00:26:23,184 --> 00:26:24,872
-<i>Eight Trigrams Sixty-Four Palms!</i>
+<i>8 Trigrams 64 Palms!</i>
 
 291
 00:26:25,720 --> 00:26:26,419
@@ -1293,23 +1294,23 @@ That pose.
 
 295
 00:26:40,473 --> 00:26:41,473
-<i>Four Palms.</i>
+<i>4 Palms.</i>
 
 296
 00:26:42,892 --> 00:26:43,892
-<i>Eight Palms.</i>
+<i>8 Palms.</i>
 
 297
 00:26:45,520 --> 00:26:46,521
-<i>Sixteen Palms.</i>
+<i>16 Palms.</i>
 
 298
 00:26:47,897 --> 00:26:49,107
-<i>Thirty-Two Palms.</i>
+<i>32 Palms.</i>
 
 299
 00:26:52,186 --> 00:26:54,146
-<i>Sixty-Four Palms!</i>
+<i>64 Palms!</i>
 
 300
 00:26:58,908 --> 00:27:01,703
@@ -2013,7 +2014,7 @@ please feel free.
 
 458
 00:39:18,981 --> 00:39:19,749
-Jeez.
+Honestly...
 
 459
 00:39:25,689 --> 00:39:28,567
@@ -2023,7 +2024,7 @@ I've closed off all your chakra points
 460
 00:39:31,994 --> 00:39:36,874
 <i>Oh, yeah! Be sure to come
-watch me kick Neji's butt!</i>
+watch me kick Neji's ass!</i>
 
 461
 00:39:38,357 --> 00:39:41,485
@@ -2865,7 +2866,7 @@ Go! Shikamaru!
 
 652
 00:56:46,805 --> 00:56:52,140
-<i>Geez, I envy a cloud being so free...</i>
+<i>Ahhh! I envy a cloud being so free...</i>
 
 653
 00:56:56,151 --> 00:57:00,247
@@ -3528,12 +3529,12 @@ This really pisses me off!
 
 802
 01:09:17,778 --> 01:09:20,573
-I'm seriously gonna give him
+I'm seriously going to give him
 a piece of my mind!
 
 803
 01:09:21,448 --> 01:09:24,201
-So the one who's gonna
+So the one who's going to
 become a Chunin is...
 
 804
@@ -3546,7 +3547,7 @@ Shut up, you super idiot!
 
 806
 01:09:29,511 --> 01:09:33,379
-Why the heck did you give up?!
+Why the hell did you give up?!
 
 807
 01:09:33,502 --> 01:09:36,714
@@ -3577,7 +3578,7 @@ Sasuke...!
 
 813
 01:09:57,776 --> 01:10:00,529
-I hear Uchiha's gonna
+I hear Uchiha's going to
 withdraw from this match.
 
 814
@@ -3858,7 +3859,7 @@ Yeah, Sasuke!
 
 879
 01:14:34,303 --> 01:14:35,637
-Uchiha's match is gonna start!
+Uchiha's match is going to start!
 
 880
 01:14:35,679 --> 01:14:38,432
@@ -4106,7 +4107,7 @@ Sorry for not contacting you...
 936
 01:20:02,422 --> 01:20:05,383
 <i>Oh no,
-Sakura's gonna get really mad...</i>
+Sakura's going to get really mad...</i>
 
 937
 01:20:09,433 --> 01:20:11,852
@@ -4271,7 +4272,7 @@ Come on!
 
 975
 01:24:02,078 --> 01:24:04,205
-If you're not gonna come at me,
+If you're not going to come at me,
 I'll come to you!
 
 976
@@ -4548,7 +4549,7 @@ the signal is going to come!</i>
 1039
 01:29:40,541 --> 01:29:43,419
 <i>Yeah...
-I'm gonna tear him open.</i>
+I'm going to tear him open.</i>
 
 1040
 01:29:45,380 --> 01:29:48,091
@@ -4670,7 +4671,7 @@ he learned that jutsu...!</i>
 
 1067
 01:31:47,376 --> 01:31:49,712
-Wh-What the heck is that?!
+Wh-What the hell is that?!
 
 1068
 01:31:50,671 --> 01:31:53,341

@@ -275,7 +275,7 @@ spin and power, and maintain it.
 
 63
 00:07:03,256 --> 00:07:04,298
-<i>You've gotta be kidding...</i>
+<i>You've have to be kidding...</i>
 
 64
 00:07:05,341 --> 00:07:09,887
@@ -898,7 +898,7 @@ I'm exhausted...
 
 207
 00:18:59,617 --> 00:19:00,928
-<i>This has gotta be a trick.</i>
+<i>This has have to be a trick.</i>
 
 208
 00:19:06,603 --> 00:19:10,107
@@ -965,7 +965,7 @@ Where did that come from?!</i>
 
 222
 00:20:51,333 --> 00:20:53,335
-<i>What the heck is going on?!</i>
+<i>What the hell is going on?!</i>
 
 223
 00:20:57,587 --> 00:20:59,506
@@ -1037,7 +1037,7 @@ The bastard who killed the Old Man Hokage!
 
 239
 00:21:57,649 --> 00:21:59,484
-Just who the heck is he?!
+Just who the hell is he?!
 
 240
 00:21:59,776 --> 00:22:02,529
@@ -1426,7 +1426,7 @@ Unlike you...
 
 328
 00:28:16,361 --> 00:28:19,155
-I'm gonna inherit the title of Hokage,
+I'm going to inherit the title of Hokage,
 no matter what!
 
 329
@@ -1891,7 +1891,7 @@ It's not just that...
 
 437
 00:35:21,202 --> 00:35:23,246
-<i>Honestly, all you ever do is
+<i>Seriously, all you ever do is
 reckless things.</i>
 
 438
@@ -1927,7 +1927,7 @@ But I need to talk to you...
 
 445
 00:35:54,193 --> 00:35:58,072
-Me, I'm gonna get a good night's sleep
+Me, I'm going to get a good night's sleep
 and train hard tomorrow!
 
 446
@@ -2152,7 +2152,7 @@ The enemy doesn't wait.
 
 494
 00:40:01,232 --> 00:40:03,109
-What was that?! You old geezer!
+What was that?! You old man!
 
 495
 00:40:03,692 --> 00:40:05,736
@@ -2488,8 +2488,8 @@ within the balloon</i>
 
 572
 00:46:55,187 --> 00:46:59,233
-<i>I just can't seem to fully contain 100%
-of my power in a perfect sphere...</i>
+<i>I just can't seem to fully contain
+all my power in a perfect sphere...</i>
 
 573
 00:47:21,116 --> 00:47:25,631
@@ -3731,7 +3731,7 @@ What? Really?
 
 858
 01:14:17,536 --> 01:14:19,496
-Geez. I guess it can't be helped.
+Seriously... I guess it can't be helped.
 
 859
 01:14:20,289 --> 01:14:22,458
@@ -3810,7 +3810,7 @@ Hi.
 875
 01:15:33,529 --> 01:15:35,030
 - Wha?!
-- What the heck's going on?!
+- What the hell's going on?!
 
 876
 01:15:35,322 --> 01:15:36,782
@@ -4225,7 +4225,7 @@ Naruto, as I recall,
 969
 01:24:00,869 --> 01:24:04,164
 you were spouting off just like this
-during the first test of the Chunin Exams.
+during the First Test of the Chunin Exam.
 
 970
 01:24:04,789 --> 01:24:07,834
@@ -4256,7 +4256,7 @@ spout off the same way now?
 
 976
 01:24:25,101 --> 01:24:29,606
-<i>I'm gonna inherit the title of Hokage,
+<i>I'm going to inherit the title of Hokage,
 no matter what!</i>
 
 977
@@ -4373,7 +4373,7 @@ Just like our wager
 
 1002
 01:27:33,248 --> 01:27:37,210
-I'm definitely gonna win
+I'm definitely going to win
 that "unlucky" necklace from you.
 
 1003
@@ -5535,7 +5535,7 @@ Don't call me brat!
 1270
 01:53:51,783 --> 01:53:55,370
 I may be like this now,
-but I'm gonna be Hokage someday!
+but I'm going to be Hokage someday!
 
 1271
 01:54:11,594 --> 01:54:12,762

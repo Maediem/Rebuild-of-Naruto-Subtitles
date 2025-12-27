@@ -2853,7 +2853,7 @@ The friend he killed.
 
 652
 01:00:30,819 --> 01:00:31,945
-Kakashi Senpai...
+Kakashi-senpai...
 
 653
 01:00:33,030 --> 01:00:34,532
@@ -3982,7 +3982,7 @@ that I failed.</i>
 
 913
 01:21:12,838 --> 01:21:14,668
-Kakashi Senpai, we have to
+Kakashi-senpai, we have to
 tend to your wounds.
 
 914
@@ -5647,7 +5647,7 @@ Big brother! Guess what?
 
 1292
 01:46:45,614 --> 01:46:49,090
-My Sensei praised me
+My sensei praised me
 at the Academy today.
 
 1293

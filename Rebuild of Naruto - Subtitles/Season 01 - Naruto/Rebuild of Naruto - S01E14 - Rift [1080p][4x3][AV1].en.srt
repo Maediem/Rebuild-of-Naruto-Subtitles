@@ -98,7 +98,7 @@ has returned!
 23
 00:03:17,411 --> 00:03:20,039
 It's really her.
-Wanna go see her?
+Want to go see her?
 
 24
 00:03:21,852 --> 00:03:22,853
@@ -670,7 +670,7 @@ you evil woman!
 
 156
 00:11:24,475 --> 00:11:25,976
-Who the heck are you?!
+Who the hell are you?!
 
 157
 00:11:40,116 --> 00:11:43,077
@@ -2570,7 +2570,7 @@ Shut up, you fatso.
 
 589
 00:50:52,897 --> 00:50:53,773
-<i>Wanna head back?</i>
+<i>Want to head back?</i>
 
 590
 00:50:54,190 --> 00:50:55,191
@@ -3323,7 +3323,7 @@ There's one guy I want to recommend.
 
 760
 01:04:55,966 --> 01:04:58,099
-What! You've gotta be kidding!
+What! You've have to be kidding!
 
 761
 01:05:00,369 --> 01:05:03,164

@@ -763,7 +763,7 @@ Kabuto!
 
 174
 00:11:43,630 --> 00:11:45,340
-Why're you quitting?!
+Why are you quitting?!
 
 175
 00:11:45,767 --> 00:11:48,019
@@ -1000,7 +1000,7 @@ Don't talk about this mark.
 
 229
 00:14:35,736 --> 00:14:37,543
-Why're you acting tough like that?!
+Why are you acting tough like that?!
 
 230
 00:14:38,127 --> 00:14:40,880
@@ -3433,7 +3433,7 @@ But... How do you win with that?
 
 794
 00:59:21,478 --> 00:59:23,480
-I'm just gonna move
+I'm just going to move
 the same way as you.
 
 795
@@ -3446,7 +3446,7 @@ No way! You're...
 
 797
 00:59:33,111 --> 00:59:34,838
-We're gonna throw shuriken
+We're going to throw shuriken
 at each other.
 
 798
@@ -3542,12 +3542,12 @@ Yahoo!
 820
 01:00:43,806 --> 01:00:46,076
 - If I'm not next, Sakura will be so disappointed.
-- I'm gonna do it!
+- I'm going to do it!
 
 821
 01:00:46,100 --> 01:00:48,478
 - She'll just think I'm "Bushy Brow".
-- I'm gonna go for it!
+- I'm going to go for it!
 
 822
 01:00:48,770 --> 01:00:51,731
@@ -3847,7 +3847,7 @@ Transformation Jutsu?!
 
 893
 01:04:55,975 --> 01:04:57,476
-Ouch! Shoot!
+Ouch! Damn!
 
 894
 01:04:58,019 --> 01:04:59,019
@@ -5168,7 +5168,7 @@ I said!
 
 1201
 01:25:09,354 --> 01:25:10,897
-<i>I'm not gonna run away!</i>
+<i>I'm not going to run away!</i>
 
 1202
 01:25:13,149 --> 01:25:16,569
@@ -5815,7 +5815,7 @@ It's an application of the same law:
 1353
 01:35:23,317 --> 01:35:25,903
 If you aim to hit a telephone pole
-with a rock, you’ll miss…
+with a rock, you’ll miss...
 
 1354
 01:35:25,986 --> 01:35:28,906
@@ -7443,7 +7443,7 @@ will both contestants please come forward!
 
 1733
 02:04:11,068 --> 02:04:14,113
-<i>I'm gonna win and have
+<i>I'm going to win and have
 some barbecued beef!</i>
 
 1734
