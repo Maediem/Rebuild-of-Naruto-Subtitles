@@ -246,7 +246,7 @@ You refuse to answer?
 
 57
 00:06:12,939 --> 00:06:15,858
-his isn’t going to play out
+his isn't going to play out
 like your ambush last time.
 
 58
@@ -2658,7 +2658,7 @@ You!
 
 614
 00:57:19,195 --> 00:57:21,942
-It’s way too early to think you’ve got us
+It's way too early to think you've got us
 trapped with something like this!
 
 615

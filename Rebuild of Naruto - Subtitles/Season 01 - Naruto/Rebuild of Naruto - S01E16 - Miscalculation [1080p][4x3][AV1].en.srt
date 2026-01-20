@@ -3132,7 +3132,7 @@ No, that's not it.
 
 716
 01:04:05,216 --> 01:04:07,009
-<i>Stand ready with a kunai knife at least.</i>
+<i>Stand ready with a kunai at least.</i>
 
 717
 01:04:07,385 --> 01:04:09,470

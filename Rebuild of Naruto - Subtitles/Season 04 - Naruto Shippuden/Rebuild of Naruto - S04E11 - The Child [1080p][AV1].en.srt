@@ -2201,7 +2201,7 @@ What is this...?
 
 496
 00:37:40,460 --> 00:37:42,526
-One of Shino’s parasitic insects
+One of Shino's parasitic insects
 which fell victim to a jutsu...
 
 497
@@ -2232,11 +2232,11 @@ Leave it to me!
 
 503
 00:37:59,727 --> 00:38:00,611
-I’m counting on you.
+I'm counting on you.
 
 504
 00:38:03,329 --> 00:38:05,662
-All right, we’re going to
+All right, we're going to
 pursue the enemy.
 
 505
@@ -2246,7 +2246,7 @@ spread out and search.
 
 506
 00:38:11,224 --> 00:38:12,969
-Don’t miss a single trace of them!
+Don't miss a single trace of them!
 
 507
 00:38:13,339 --> 00:38:13,858
@@ -2263,30 +2263,30 @@ things while you're away.
 
 510
 00:38:26,920 --> 00:38:27,787
-I’m counting on you.
+I'm counting on you.
 
 511
 00:38:29,994 --> 00:38:33,352
 I guess she still
-can’t trust us.
+can't trust us.
 
 512
 00:38:34,180 --> 00:38:36,564
-She doesn’t want us to learn
-about Orochimaru’s hideout,
+She doesn't want us to learn
+about Orochimaru's hideout,
 
 513
 00:38:36,792 --> 00:38:39,108
-so we’re shoved into
+so we're shoved into
 a place like this...
 
 514
 00:38:39,642 --> 00:38:42,611
-She’s extremely cautious.
+She's extremely cautious.
 
 515
 00:38:43,035 --> 00:38:45,990
-It’s why she rarely
+It's why she rarely
 makes mistakes.
 
 516
@@ -2300,7 +2300,7 @@ were trying to run away
 
 518
 00:38:51,788 --> 00:38:54,604
-because they didn’t want
+because they didn't want
 to see Orochimaru.
 
 519
@@ -2325,16 +2325,16 @@ This is the lake.
 
 524
 00:40:19,547 --> 00:40:23,009
-It’s true, lake water
-isn’t salty at all.
+It's true, lake water
+isn't salty at all.
 
 525
 00:40:23,404 --> 00:40:24,721
-It’s different from the ocean.
+It's different from the ocean.
 
 526
 00:40:25,432 --> 00:40:29,263
-Although... I’ve never seen
+Although... I've never seen
 the ocean either.
 
 527
@@ -2351,7 +2351,7 @@ Well, around here should do...
 
 530
 00:41:12,733 --> 00:41:13,995
-What’s so funny?
+What's so funny?
 
 531
 00:41:17,106 --> 00:41:19,718
@@ -2360,7 +2360,7 @@ is about to start.
 
 532
 00:41:20,085 --> 00:41:22,938
-Yeah, we’re going to
+Yeah, we're going to
 have some fun.
 
 533
@@ -2379,15 +2379,15 @@ interesting happen.
 
 536
 00:42:23,321 --> 00:42:24,209
-<i>It’s coming...</i>
+<i>It's coming...</i>
 
 537
 00:42:37,720 --> 00:42:38,908
-<i>That’s the limit.</i>
+<i>That's the limit.</i>
 
 538
 00:42:48,603 --> 00:42:51,933
-<i>It’s there... no doubt about it.
+<i>It's there... no doubt about it.
 In this lake...</i>
 
 539
@@ -2679,11 +2679,11 @@ One, two... One, two...
 
 604
 00:46:53,140 --> 00:46:54,995
-You’re working hard, Naruto.
+You're working hard, Naruto.
 
 605
 00:46:55,020 --> 00:47:00,901
-Gamariki’s sternness will temper you
+Gamariki's sternness will temper you
 like steel and nurture you...
 
 606
@@ -2703,7 +2703,7 @@ of the world--!
 
 609
 00:47:10,913 --> 00:47:14,041
-Can’t repel...
+Can't repel...
 any temptation of the world...
 
 610
@@ -2713,18 +2713,18 @@ something this simple?!
 
 611
 00:47:18,694 --> 00:47:23,032
-What’re you saying?!
-It’s the way you teach that’s bad!
+What're you saying?!
+It's the way you teach that's bad!
 
 612
 00:47:23,365 --> 00:47:27,361
-Oh? You’re blaming me?
-You think you’re better than me?
+Oh? You're blaming me?
+You think you're better than me?
 
 613
 00:47:27,386 --> 00:47:29,931
 Humph! Forget it!
-I can’t take this anymore!
+I can't take this anymore!
 
 614
 00:47:29,956 --> 00:47:32,167
@@ -2738,7 +2738,7 @@ Coming at me from behind...
 
 616
 00:47:37,729 --> 00:47:39,439
-That’s cowardly!
+That's cowardly!
 
 617
 00:47:40,524 --> 00:47:43,318
@@ -2751,11 +2751,11 @@ What is this?!
 
 619
 00:47:53,902 --> 00:47:55,612
-The water’s all gone.
+The water's all gone.
 
 620
 00:47:56,068 --> 00:47:57,236
-Let’s go.
+Let's go.
 
 621
 00:47:59,626 --> 00:48:01,712
@@ -2781,17 +2781,17 @@ Fine with me!
 
 626
 00:48:12,514 --> 00:48:15,017
-That’s enough! Both of you!
+That's enough! Both of you!
 
 627
 00:48:17,437 --> 00:48:23,942
-As if Naruto isn’t enough...
+As if Naruto isn't enough...
 But you too, Gamariki...
 
 628
 00:48:24,276 --> 00:48:28,614
 Well, you know Jira-chan,
-it’s not like I don’t understand.
+it's not like I don't understand.
 
 629
 00:48:28,655 --> 00:48:30,324
@@ -2814,15 +2814,15 @@ All the more reason why...
 633
 00:48:38,433 --> 00:48:42,723
 our bodies must be compatible,
-or it’s useless for me.
+or it's useless for me.
 
 634
 00:48:43,004 --> 00:48:45,230
-Yeah well, we aren’t compatible,
+Yeah well, we aren't compatible,
 
 635
 00:48:45,255 --> 00:48:49,092
-so it’ll be faster if
+so it'll be faster if
 we find someone who is.
 
 636
@@ -2831,12 +2831,12 @@ Hmm... That may be a good idea.
 
 637
 00:48:53,325 --> 00:48:57,935
-However... you can’t summon
+However... you can't summon
 with that arm, can you?
 
 638
 00:48:57,976 --> 00:49:02,272
-Hah! You haven’t forgotten
+Hah! You haven't forgotten
 how fast I recover, have you?
 
 639
@@ -2865,7 +2865,7 @@ Huh?! Gamakichi and Tatsu...?
 
 645
 00:49:28,507 --> 00:49:31,385
-Oh, you’ve grown!
+Oh, you've grown!
 
 646
 00:49:34,035 --> 00:49:37,057
@@ -2877,12 +2877,12 @@ Of course we have!
 
 648
 00:49:39,015 --> 00:49:41,851
-It’s because of all the snacks
-we’ve eaten.
+It's because of all the snacks
+we've eaten.
 
 649
 00:49:42,229 --> 00:49:45,399
-Anyway, why’d you summon us?
+Anyway, why'd you summon us?
 
 650
 00:49:45,627 --> 00:49:49,277
@@ -2907,11 +2907,11 @@ Does that taste good?
 
 655
 00:50:12,801 --> 00:50:13,885
-<i>That’s...</i>
+<i>That's...</i>
 
 656
 00:50:35,250 --> 00:50:36,709
-<i>You’re late.</i>
+<i>You're late.</i>
 
 657
 00:50:37,554 --> 00:50:40,516
@@ -2925,7 +2925,7 @@ just now...</i>
 
 659
 00:50:44,590 --> 00:50:46,933
-<i>Lord Orochimaru’s next vessel...</i>
+<i>Lord Orochimaru's next vessel...</i>
 
 660
 00:51:04,352 --> 00:51:10,442
@@ -2934,7 +2934,7 @@ of your training thus far.
 
 661
 00:51:10,879 --> 00:51:12,965
-You’re my opponent?
+You're my opponent?
 
 662
 00:51:13,955 --> 00:51:14,873
@@ -2947,7 +2947,7 @@ How impressive.
 664
 00:51:23,121 --> 00:51:27,626
 A thousand enemies stand before you,
-and you don’t even flinch.
+and you don't even flinch.
 
 665
 00:51:33,436 --> 00:51:36,815
@@ -2964,7 +2964,7 @@ Sasuke... You are truly...
 668
 00:52:11,461 --> 00:52:14,965
 <i>The power you have...
-I’m interested.</i>
+I'm interested.</i>
 
 669
 00:52:17,696 --> 00:52:19,349
@@ -2989,7 +2989,7 @@ by your power...</i>
 
 674
 00:52:38,709 --> 00:52:41,344
-There’s only one reason
+There's only one reason
 why you were summoned...
 
 675
@@ -3008,7 +3008,7 @@ for this mission.
 
 678
 00:52:57,183 --> 00:53:01,312
-In fact... you’re the only one
+In fact... you're the only one
 who can do it.
 
 679
@@ -3027,7 +3027,7 @@ becoming my vessel.
 
 682
 00:53:37,964 --> 00:53:42,469
-<i>He’s quite fatigued...
+<i>He's quite fatigued...
 Perhaps we should rest a bit.</i>
 
 683
@@ -3054,7 +3054,7 @@ Wh-Who the hell are you?!
 
 688
 00:54:10,956 --> 00:54:12,415
-Where’d you come from...?
+Where'd you come from...?
 
 689
 00:54:14,000 --> 00:54:16,920
@@ -3072,7 +3072,7 @@ by someone else...
 
 692
 00:54:21,265 --> 00:54:23,475
-and that person’s feelings
+and that person's feelings
 reach me as well.
 
 693
@@ -3099,12 +3099,12 @@ And even Sasuke...
 
 698
 00:54:38,759 --> 00:54:42,137
-Then that person you’re thinking
+Then that person you're thinking
 about will know where home is.
 
 699
 00:54:44,281 --> 00:54:48,034
-Oh... You wouldn’t know
+Oh... You wouldn't know
 what I mean, would you...
 
 700
@@ -3117,11 +3117,11 @@ So if someone is thinking about me,
 
 702
 00:54:54,436 --> 00:54:56,813
-then that’s the place I go back to?
+then that's the place I go back to?
 
 703
 00:54:57,502 --> 00:55:00,880
-Yeah... that’s home.
+Yeah... that's home.
 
 704
 00:55:01,969 --> 00:55:03,137
@@ -3133,7 +3133,7 @@ Yeah, right?
 
 706
 00:55:10,598 --> 00:55:12,726
-By the way, what’s your name–
+By the way, what's your name–
 
 707
 00:55:13,263 --> 00:55:14,555
@@ -3141,7 +3141,7 @@ Huh? Hey?
 
 708
 00:55:22,193 --> 00:55:25,488
-That kid... Where’d he disappear to?
+That kid... Where'd he disappear to?
 
 709
 00:55:33,133 --> 00:55:34,468

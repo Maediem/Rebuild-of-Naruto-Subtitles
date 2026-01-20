@@ -2340,11 +2340,11 @@ all this time?!</i>
 
 537
 00:41:46,825 --> 00:41:49,150
-<i>From now, for 24 hours...</i>
+<i>For the next 24 hours...</i>
 
 538
 00:41:49,175 --> 00:41:51,052
-<i>Go back to that day.</i>
+<i>Relive that day.</i>
 
 539
 00:41:59,767 --> 00:42:01,393
@@ -2364,7 +2364,7 @@ Too bad, Itachi... Kisame.
 
 543
 00:42:22,601 --> 00:42:25,312
-You are in my belly now!
+You are in my stomach now!
 
 544
 00:42:25,636 --> 00:42:29,389
@@ -2857,8 +2857,8 @@ Get a load of that...
 
 656
 00:51:38,945 --> 00:51:45,744
-<i>Capturing Naruto is the highest priority mission
-assigned by our organization, the Akatsuki!</i>
+<i>Capturing Naruto is the primary mission
+assigned to us by the Akatsuki.</i>
 
 657
 00:51:52,467 --> 00:51:53,467

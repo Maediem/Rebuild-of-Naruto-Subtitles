@@ -127,7 +127,7 @@ There should be a report soon...
 
 29
 00:01:33,676 --> 00:01:35,929
-My man Sasori, you're late.
+Master Sasori, you're late.
 
 30
 00:01:37,305 --> 00:01:40,100
@@ -1644,7 +1644,7 @@ directly from your mouth...
 
 373
 00:30:54,523 --> 00:30:57,818
-There’s no doubt that one of the two enemies
+There's no doubt that one of the two enemies
 was Sasori.
 
 374

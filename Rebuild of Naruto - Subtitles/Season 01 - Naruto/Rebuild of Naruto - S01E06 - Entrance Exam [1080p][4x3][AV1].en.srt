@@ -153,7 +153,7 @@ our teamwork is so bad!
 
 36
 00:05:04,470 --> 00:05:06,389
-You always have to hog the spotlight!
+You always have to show off!
 
 37
 00:05:06,749 --> 00:05:09,058
@@ -228,7 +228,7 @@ Huh?
 
 53
 00:06:27,053 --> 00:06:31,015
-There’s no way a rock is that
+There's no way a rock is that
 perfectly square with holes in it!
 
 54
@@ -4425,7 +4425,7 @@ Me too!
 
 1013
 01:09:12,190 --> 01:09:13,775
-<i>'m a super-elite ninja</i>
+<i>I'm a super-elite ninja</i>
 
 1014
 01:09:13,817 --> 01:09:15,610
