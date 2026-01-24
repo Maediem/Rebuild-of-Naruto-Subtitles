@@ -1260,7 +1260,7 @@ Oww! Oww!
 290
 00:22:39,751 --> 00:22:44,505
 We'll find an inn for the night.
-Mr. Ostrich looks worn out too.
+Ostrich looks worn out too.
 
 291
 00:22:45,258 --> 00:22:48,302
@@ -1766,7 +1766,8 @@ What's going on?!
 
 406
 00:29:27,508 --> 00:29:29,718
-How's that, Mr. Vendetta?
+Heh, How about it,
+Master of Vengeance?
 
 407
 00:29:30,035 --> 00:29:32,621
@@ -4243,7 +4244,7 @@ Sakura's been captured?!
 
 972
 01:12:28,383 --> 01:12:29,050
-Wha-?
+Wha—?
 
 973
 01:12:29,075 --> 01:12:29,742
@@ -4655,7 +4656,7 @@ Why you...
 
 1067
 01:21:03,709 --> 01:21:04,710
-Wha-?!
+Wha—?!
 
 1068
 01:21:10,029 --> 01:21:11,113
@@ -5506,7 +5507,7 @@ Everyone, switch to Plan B.</i>
 
 1261
 01:35:22,640 --> 01:35:24,725
-<i>Mr. Sukea, please get into
+<i>Sukea, please get into
 position as well.</i>
 
 1262

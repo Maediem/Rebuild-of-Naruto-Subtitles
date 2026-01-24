@@ -3099,7 +3099,7 @@ Don't worry about that. Let's go.
 
 697
 00:47:01,828 --> 00:47:03,538
-One, two--!
+One, two—!
 
 698
 00:47:09,952 --> 00:47:11,870
@@ -3594,7 +3594,7 @@ Say "Hi" to Kurenai-sensei for me!
 
 811
 00:55:18,531 --> 00:55:21,409
-<i>Wha--?! How did...
+<i>Wha—?! How did...
 you know that?!</i>
 
 812
@@ -5140,7 +5140,7 @@ How about it?!
 
 1158
 01:21:44,065 --> 01:21:45,912
-Die--!
+Die—!
 
 1159
 01:21:46,223 --> 01:21:47,891
@@ -5510,7 +5510,7 @@ All right! The curse is broken!
 
 1241
 01:27:13,173 --> 01:27:14,132
-Wha--?!
+Wha—?!
 
 1242
 01:27:16,475 --> 01:27:17,786
@@ -5610,7 +5610,7 @@ Come on Kakuzu, buddy.
 
 1264
 01:29:20,563 --> 01:29:23,941
-Wha--?! Hey! Wait a minute!
+Wha—?! Hey! Wait a minute!
 
 1265
 01:29:24,241 --> 01:29:26,368
@@ -6422,7 +6422,7 @@ of the word restraint?!</i>
 1455
 01:46:15,160 --> 01:46:18,705
 <i>If you keep eating like this,
-eventually you're going to be fa--!</i>
+eventually you're going to be fa—!</i>
 
 1456
 01:46:23,950 --> 01:46:25,813
@@ -6430,7 +6430,7 @@ eventually you're going to be fa--!</i>
 
 1457
 01:46:26,338 --> 01:46:29,508
-<i>"Fa-" what?!
+<i>"Fa—" what?!
 Is there something wrong, Shikamaru?!</i>
 
 1458
@@ -6440,7 +6440,7 @@ you can order the deluxe course meal.</i>
 
 1459
 01:46:34,429 --> 01:46:35,097
-<i>What--?!</i>
+<i>Wha—?!</i>
 
 1460
 01:46:35,347 --> 01:46:37,891

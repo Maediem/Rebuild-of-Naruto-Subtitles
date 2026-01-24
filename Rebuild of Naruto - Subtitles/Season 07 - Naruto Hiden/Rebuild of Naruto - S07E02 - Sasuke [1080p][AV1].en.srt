@@ -97,15 +97,15 @@ It can't be...
 
 24
 00:04:08,831 --> 00:04:09,874
-Mr. Tadaichi...
+Tadaichi...
 
 25
 00:04:11,626 --> 00:04:12,919
-That's Mr. Tadaichi!
+That's Tadaichi!
 
 26
 00:04:13,419 --> 00:04:14,837
-Mr. Tadaichi?
+Tadaichi?
 
 27
 00:04:15,099 --> 00:04:18,061
@@ -186,7 +186,7 @@ He's an exploding human!
 
 45
 00:06:02,308 --> 00:06:03,309
-Mr. Tadaichi...
+Tadaichi...
 
 46
 00:06:07,700 --> 00:06:08,701
@@ -767,7 +767,7 @@ An exploding human?!
 
 180
 00:16:39,737 --> 00:16:42,406
-Mr. Iou, don't get close.
+Iou, don't get close.
 It's too dangerous.
 
 181
@@ -1266,7 +1266,7 @@ Remember, we're comrades.
 
 295
 00:25:52,684 --> 00:25:58,023
-I'm sure Mr. Kakashi also taught you
+I'm sure Kakashi also taught you
 the importance of trust and teamwork.
 
 296
@@ -2351,7 +2351,7 @@ There's no mistake.
 543
 00:43:55,994 --> 00:43:58,705
 It's been a long time,
-Mr. Orochimaru!
+Orochimaru!
 
 544
 00:43:58,802 --> 00:44:03,390
@@ -3452,7 +3452,7 @@ And going up against him...
 
 795
 01:06:29,943 --> 01:06:32,529
-representing Mr. En Oyashiro,
+representing En Oyashiro,
 who returns after a long absence...
 
 796

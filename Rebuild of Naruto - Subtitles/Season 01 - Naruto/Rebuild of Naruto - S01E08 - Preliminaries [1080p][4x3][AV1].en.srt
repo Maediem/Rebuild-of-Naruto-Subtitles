@@ -4316,11 +4316,11 @@ I'll give it back all at once!
 
 1004
 01:12:17,916 --> 01:12:18,916
-<i>U-!</i>
+<i>U—!</i>
 
 1005
 01:12:22,546 --> 01:12:24,173
-<i>Zu-! Ma-! Ki-!</i>
+<i>Zu—! Ma—! Ki—!</i>
 
 1006
 01:12:32,056 --> 01:12:33,265
@@ -7519,7 +7519,7 @@ Then let's not play around...
 
 1750
 02:05:14,153 --> 02:05:17,198
-I'll finish you off quickly, Mr. Fatso.
+I'll finish you off quickly, Fatso.
 
 1751
 02:05:18,677 --> 02:05:21,680

@@ -1824,7 +1824,7 @@ You should train sometimes, at least!</i>
 419
 00:37:17,735 --> 00:37:22,490
 <i>You get teased because you're like that.
-You're just a fa-</i>
+You're just a fa—</i>
 
 420
 00:37:22,799 --> 00:37:25,218
@@ -3228,7 +3228,7 @@ from long distance.</i>
 
 745
 01:11:22,179 --> 01:11:24,358
-<i>Wha-?! What is that?!</i>
+<i>Wha—?! What is that?!</i>
 
 746
 01:11:33,632 --> 01:11:37,146
